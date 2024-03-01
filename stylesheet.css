@@ -1,0 +1,18 @@
+h1 {
+    margin-top: 8px;
+}
+
+#form {
+    display: flex;
+    flex-direction: column;
+}
+
+#area_ {
+    width: auto;
+    height: 500px;
+}
+
+#btn_ {
+    width: 50px;
+    height: auto;
+}
