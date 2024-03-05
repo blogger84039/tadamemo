@@ -1,3 +1,9 @@
+#header {
+    width: auto;
+    height: 100px;
+    background-color: #2ca9e1;
+}
+
 h1 {
     margin-top: 8px;
 }
@@ -15,4 +21,18 @@ h1 {
 #btn_ {
     width: 50px;
     height: auto;
+}
+
+#footer {
+    width: auto;
+    height: 80px;
+    background-color: #2ca9e1;
+}
+
+#footer-list {
+    list-style: none;
+}
+
+a {
+    color: black;
 }
